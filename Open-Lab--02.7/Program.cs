@@ -24,7 +24,7 @@ namespace Open_Lab__02._7
             Console.WriteLine("Type year:");
             year = int.Parse(Console.ReadLine());
 
-            Console.WriteLine(day, month, year);
+            Console.WriteLine(day, month, year); 
         }
     }
 }
